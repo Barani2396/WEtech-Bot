@@ -1,2 +1,2 @@
 # We-tech-alliance
-Email template
+DSC Sollution Challenge
