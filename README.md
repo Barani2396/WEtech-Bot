@@ -1,2 +1,2 @@
-# We-tech-alliance
+# WEtech-Bot
 DSC Sollution Challenge
