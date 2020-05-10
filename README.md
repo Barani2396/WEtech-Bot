@@ -18,5 +18,7 @@ For testing follow the procedures,
 - Copy the index.js and pacakge.json files to the fulfilment editor. Before copying make sure to delete the existing code.
 - Follow the comments in index.js to add your service account details and email account.
 
+Video Explanation - https://www.youtube.com/watch?v=No4SR9zYSC0
+
 
 
