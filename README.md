@@ -1,7 +1,7 @@
 # WEtech-Bot (aka Chat-Bot)
 DSC Solution Challenge - 2020
 
-## About
+## Insight
 A responsive chatbot developed for WEtech Alliance to fulfill user queries that provide 24/7 continuous service to WEtech users. The bot is functional, which can handle user requests and perform actions like adding specified events from WEtech to the user's calendar and also provide mail notifications. The prime goal of this work is to provide a user-friendly service to WEtech users. This work was also submitted in DSC Solution Challenge 2020.
 
 ## Prerequisite
